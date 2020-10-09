@@ -1,5 +1,5 @@
 # Tweet For Our Lives
-Tweet for our lives is a twitter sentiment analysis project aimed at preventative action against the mental health crisis America faces. Suicide is an epidemic made worse by an actual pandemic, the hidden consequence of quarantine and limited social interaction. Tweet For Our Lives hopes to use machine learning to help flag tweets for suicide-sensitive content, respond with mental health resources, and most importantly, help people.
+Tweet For Our Lives is a work in progress twitter sentiment analysis project aimed at preventative action against the mental health crisis America faces. Suicide is an epidemic made worse by an actual pandemic, the hidden consequence of quarantine and limited social interaction. Tweet For Our Lives hopes to use machine learning to help flag tweets for suicide-sensitive content, respond with mental health resources, and most importantly, help people.
 
 ## Planned Development
 - Gain access to the Twitter API to improve the response capabilities of the program
